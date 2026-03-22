@@ -51,15 +51,15 @@ These projects were created as part of my learning journey and exploration of Py
 
 * **Banking Program.py** — Simulates basic banking operations
 * **pizza(codecademy).py** — Pizza ordering logic (Codecademy project)
-* **Terminator.py** — Likely a system/process-related script
-* **Python scamming machine.py** — Experimental or joke script
+* **env_switcher.py** — Automation script that closes Windhawk and launches VirtualBox
+* **Python scamming machine.py** — Slot machine game simulation (casino-style)
 
 ---
 
 ### 🕰️ Larger Project
 
 * **Time Traveler's Toolkit/**
-  A folder containing a larger or multi-file project. Likely includes multiple features or utilities related to a central theme.
+  A larger multi-file project containing additional tools and features built around a central theme.
 
 ---
 
@@ -91,7 +91,6 @@ python Calculator.py
 ## 🛠️ Requirements
 
 * Python 3.x
-* No external libraries required (most scripts use standard Python)
 
 ---
 
@@ -109,15 +108,15 @@ python Calculator.py
 * Add more advanced projects
 * Improve code structure and readability
 * Add comments and documentation to each script
-* Create a GUI version of some tools
+* Create GUI versions of some tools
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Note
 
-Some scripts (like the "scamming machine") are created for educational or experimental purposes only and should not be used maliciously.
+Some file names are humorous (like the "scamming machine"), but all projects are harmless and created for learning and entertainment purposes.
 
-
+---
 
 ## 📄 License
 
